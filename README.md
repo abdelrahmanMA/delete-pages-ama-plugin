@@ -1,0 +1,1 @@
+# delete-pages-ama-plugin
